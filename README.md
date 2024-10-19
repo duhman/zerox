@@ -129,6 +129,14 @@ Request #3 => page_2_markdown + page_3_image
 }
 ```
 
+### Running the Project
+
+To run the Node.js project, ensure you have Node.js installed. Then follow these steps:
+
+1. Install dependencies by running `npm install` in the project root.
+2. Build the project using `npm run build` as specified in `package.json`.
+3. Run the project using `node node-zerox/dist/index.js`.
+
 ## Python Zerox
 
 (Python SDK - supports vision models from different providers like OpenAI, Azure OpenAI, Anthropic, AWS Bedrock etc)
